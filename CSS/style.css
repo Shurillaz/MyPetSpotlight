@@ -32,8 +32,8 @@
 
 .personality ul::-webkit-scrollbar-thumb {
 	background-color: #171723;
-	border: 2px solid #555555;
-	border-radius: 6px;
+	border: 2px solid #575393;
+	border-radius: 43px;
 }
 
 /* Scroll bar customizing for Firefox  */
